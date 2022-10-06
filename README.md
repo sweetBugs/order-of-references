@@ -153,3 +153,5 @@ SORT
 
 After inserting these codes, we could get the references in alphabetical order.
 In turn, we could obtain the references in the order of appearance if we delete these codes.
+
+The answer is from: https://tex.stackexchange.com/questions/174458/bibtex-bst-file-modification-to-include-alphabetical-ordering
